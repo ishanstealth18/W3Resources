@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574637270 source:c:\users\ishan\codeblock_workspace\w3resources\declarationandexpression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
