@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575469555 source:/home/ishan/Desktop/W3Resources/DeclarationAndExpression/Declarations_part2/main.c
+	<stdio.h>
+	<stdlib.h>
+
