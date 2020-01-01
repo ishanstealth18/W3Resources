@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576177410 source:/home/ishan/Desktop/W3Resources/For_Loops_Office/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<inttypes.h>
+

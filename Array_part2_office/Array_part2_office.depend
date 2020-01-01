@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577475825 source:/home/ishan/Desktop/W3Resources/Array_part2_office/main.c
+	<stdio.h>
+	<stdlib.h>
+
