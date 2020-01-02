@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577724380 source:/home/ishan/Desktop/W3Resources/Pointers_Office/main.c
+	<stdio.h>
+	<stdlib.h>
+
