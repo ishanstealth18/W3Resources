@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577837348 source:c:\users\ishan\codeblock_workspace\w3resources\pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
