@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578587384 source:/home/ishan/Desktop/W3Resources/Experiment/main.c
+	<stdio.h>
+	<stdlib.h>
+
